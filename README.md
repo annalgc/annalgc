@@ -20,6 +20,6 @@ In my spare time I like to play video games and read (my favorite books are fant
 <a href="mailto:aconstantino00@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://www.linkedin.com/in/anna-luiza-constantino-6b616016a/" target="_blank" rel="noreferrer noopener">
+<a href="https://www.linkedin.com/in/anna-luiza-constantino-6b616016a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
